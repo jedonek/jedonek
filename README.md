@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jan Tománek</h1>
-- 🌱 I’m currently learning **js and C**
+- 🌱 I’m currently learning js and C
 
 - 📫 How to reach me **sejk.je.1@gmail.com**
 
