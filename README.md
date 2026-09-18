@@ -28,17 +28,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-</p>
-
-<h3 align="left">GitHub Stats:</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jedonek&show_icons=true&theme=default" alt="GitHub Stats"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/mysql-original.svg" alt="mySQL" width="40" height="40"/>
 </p>
 
 <h3 align="left">Currently learning:</h3>
 <ul>
   <li>TypeScript</li>
   <li>Frontend development</li>
+  <li>Backend development</li>
+  <li>SQL Databases</li>
   <li>Clean code and best practices</li>
 </ul>
