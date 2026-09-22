@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Jan 👋</h1>
 
 <p align="center">
-  <strong>Student / Learner focused on TypeScript, web development,SQL databases and improving every day.</strong>
+  <strong>Student / Learner focused on TypeScript, web development, SQL databases, and continuous improvement.</strong>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ## About me
 
-- 🌱 Currently learning TypeScript And MySQL
+- 🌱 Currently learning TypeScript and MySQL
 - 💡 Interested in web development, problem solving, and building useful things
 - 📫 Reach me at: sejk.je.1@gmail.com
 
@@ -29,8 +29,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mySQL" width="40" height="40"/>
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 </p>
 
 ## Currently learning
@@ -38,5 +37,5 @@
 - TypeScript
 - Frontend development
 - Backend development
-- SQL/NoSQL databases
+- SQL / NoSQL databases
 - Clean code and best practices
