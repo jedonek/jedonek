@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Jan 👋</h1>
 
 <p align="center">
-  <strong>Student / Learner focused on TypeScript, web development, and improving every day.</strong>
+  <strong>Student / Learner focused on TypeScript, web development,SQL databases and improving every day.</strong>
 </p>
 
 <p align="center">
@@ -10,13 +10,13 @@
 
 <p align="center">
   <a href="https://instagram.com/_jean_claude_bal_gram_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%40_jean_claude_bal_gram_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-%40pan_majtel-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
 ## About me
 
-- 🌱 Currently learning TypeScript
+- 🌱 Currently learning TypeScript And MySQL
 - 💡 Interested in web development, problem solving, and building useful things
 - 📫 Reach me at: sejk.je.1@gmail.com
 
@@ -38,5 +38,5 @@
 - TypeScript
 - Frontend development
 - Backend development
-- SQL databases
+- SQL/NoSQL databases
 - Clean code and best practices
